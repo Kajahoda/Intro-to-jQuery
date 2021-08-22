@@ -11,4 +11,11 @@ else
 {
     $('.yellow').text("just a regular number, please.");
 }
+if (word = "cool") {
+    $('.green').text("Power of DOM");
+}
+else
+{
+    $('.blue').text("Power of DOM");
+};
 
